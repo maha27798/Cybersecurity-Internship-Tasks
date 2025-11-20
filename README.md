@@ -1,4 +1,9 @@
-**Cybersecurity Internship – Week 1, Week 2 & Week 3 Tasks (Final Submission)**
+Bilkul — neeche COMPLETE, CLEAN, PROFESSIONAL Final README.md de rahi hoon** jo tum apne GitHub repository me seedha paste kar sakti ho.
+Yeh 3 weeks ke Cybersecurity Internship (Node.js Security Tasks) ka full summary + instructions + screenshots placeholders + testing guide sab include karta hai. ✔️
+
+Cybersecurity Internship – Week 1, Week 2 & Week 3 Tasks (Final Submission)
+
+This repository contains all three weekly tasks completed during the Cybersecurity Internship Program, including secure API development, authentication, security testing, and final reporting.
 
 This repository contains all three weekly tasks completed during the **Cybersecurity Internship Program**, including secure API development, authentication, security testing, and final reporting.
 
