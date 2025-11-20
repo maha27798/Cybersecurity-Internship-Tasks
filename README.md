@@ -1,6 +1,4 @@
-<img width="1919" height="1153" alt="thunder-client signup request" src="https://github.com/user-attachments/assets/0418ef67-3431-4f49-98ca-713a8f36baa0" />
-
-                                                  # **Cybersecurity Internship – Week 1, Week 2 & Week 3 Tasks (Final Submission)**
+**Cybersecurity Internship – Week 1, Week 2 & Week 3 Tasks (Final Submission)**
 
 This repository contains all three weekly tasks completed during the **Cybersecurity Internship Program**, including secure API development, authentication, security testing, and final reporting.
 
@@ -55,9 +53,9 @@ Cybersecurity-Internship-Tasks/
 
 <img width="1823" height="1039" alt="xss_error_handling png" src="https://github.com/user-attachments/assets/9f22b89b-2486-48e2-8b67-c43cb7c25f8f" />
 
-<img width="1823" height="1039" alt="xss_error_handling png" src="https://github.com/user-attachments/assets/24d1e08c-f048-4264-83e2-dbeeb545a001" />
+<img width="1920" height="1200" alt="zap_full_scan png" src="https://github.com/user-attachments/assets/18b36cc0-4a68-4f13-a895-5e1f588a3baf" />
 
-<img width="1823" height="1039" alt="xss_error_handling png" src="https://github.com/user-attachments/assets/5bda3959-6b40-496b-b183-b840712cc917" />
+<img width="1920" height="1130" alt="zap_quickstart png" src="https://github.com/user-attachments/assets/9a065076-f5a9-440e-b761-0c384ee96d1f" />
 
 <img width="1920" height="1130" alt="zap_scan_export_ready png" src="https://github.com/user-attachments/assets/a69942fb-b635-48c0-a8a6-cab2b0ef5f91" />
 
