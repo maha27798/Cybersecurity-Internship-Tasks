@@ -4,8 +4,6 @@
 
 
 
-If you want, I can also format an entire professional README with this heading included.
-
 This repository contains all three weekly tasks completed during the **Cybersecurity Internship Program**, including secure API development, authentication, security testing, and final reporting.
 
 ---
